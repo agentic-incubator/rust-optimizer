@@ -1,0 +1,21 @@
+{
+  "name": "rust-optimizer",
+  "version": "0.1.0",
+  "description": "Audit a Rust repo's GitHub Actions CI, release workflow, Docker images, caching, and dependency graph; produce a prioritized optimization report and an autopilot-ready OPTIMIZATION_SPEC.md written in Definition-of-Done vocabulary (cmd:/grep:/grep:absent:) so fixes ship via the autopilot pipeline. It never edits code — it detects (account- and visibility-aware), reports, hands off, and measures before/after impact.",
+  "author": {
+    "name": "Chris Phillipson"
+  },
+  "homepage": "https://github.com/agentic-incubator/rust-optimizer",
+  "keywords": [
+    "rust",
+    "cargo",
+    "ci",
+    "github-actions",
+    "docker",
+    "caching",
+    "nextest",
+    "optimization",
+    "performance",
+    "autopilot"
+  ]
+}

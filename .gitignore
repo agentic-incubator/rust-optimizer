@@ -1,0 +1,30 @@
+# Ruflo / claude-flow / aqe generated local state (NOT part of the plugin).
+# The marketplace plugin lives in plugins/rust-optimizer/ and .claude-plugin/.
+.claude/
+.claude-flow/
+.swarm/
+.agentic-qe/
+.mcp.json
+ruvector.db
+*.db
+
+# Dependencies
+node_modules/
+
+# Tooling caches
+.lycheecache
+
+# Artifacts the skill's scripts write into a target repo (never committed here).
+.optimizer/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
