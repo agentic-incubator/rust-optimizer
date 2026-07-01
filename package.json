@@ -1,6 +1,6 @@
 {
   "name": "rust-optimizer",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "description": "Quality and validation tooling for the rust-optimizer marketplace. The deliverable is prompt content (a skill, commands, and scripts); these dev scripts keep the manifests valid and the docs lint-clean.",
   "license": "MIT",
