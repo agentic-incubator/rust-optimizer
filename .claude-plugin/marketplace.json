@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Audit-and-report optimizer for Rust GitHub Actions CI, release, and Docker pipelines — hands fixes off to autopilot.",
-    "version": "0.1.0"
+    "version": "0.2.0"
   },
   "plugins": [
     {
